@@ -1,0 +1,7 @@
+quarkus:
+  container-image:
+    build: true
+    push: true
+    group: wwuulb
+    name: test-k8s-module
+    registry: ulb.wwu.io
